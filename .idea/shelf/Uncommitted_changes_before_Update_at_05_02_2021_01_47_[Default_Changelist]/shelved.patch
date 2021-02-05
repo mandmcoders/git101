@@ -1,0 +1,241 @@
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1612487897649)
++++ b/.idea/modules.xml	(date 1612487897649)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/git101.iml" filepath="$PROJECT_DIR$/.idea/git101.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/git101.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/git101.iml b/.idea/git101.iml
+new file mode 100644
+--- /dev/null	(date 1612487897640)
++++ b/.idea/git101.iml	(date 1612487897640)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="WEB_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/deployment.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/deployment.xml b/.idea/deployment.xml
+new file mode 100644
+--- /dev/null	(date 1612487897659)
++++ b/.idea/deployment.xml	(date 1612487897659)
+@@ -0,0 +1,140 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
++    <serverData>
++      <paths name="Black Team">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="Black Team 2021">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="Espr (red team)">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="Laura@espr">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="PAP2019@espr.edu.pt">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="Red Team">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="Red Team 2021">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="Red team">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="VL Moldes VPN">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="VLMoldes Via VPN">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="aemgnascente ferias">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="black team">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="espr.edu.pt">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="espr.edu.pt (1)">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="ipconsul">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="paa">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="pap2019@espr.edu.pt">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="papjorge@espr.edu.pt">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++      <paths name="Área reservada">
++        <serverdata>
++          <mappings>
++            <mapping local="$PROJECT_DIR$" web="/" />
++          </mappings>
++        </serverdata>
++      </paths>
++    </serverData>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/encodings.xml b/.idea/encodings.xml
+new file mode 100644
+--- /dev/null	(date 1612487894190)
++++ b/.idea/encodings.xml	(date 1612487894190)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="PROJECT" charset="ISO-8859-1" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1612487897666)
++++ b/.idea/vcs.xml	(date 1612487897666)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>ISO-8859-1
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1612487901168)
++++ b/.idea/.gitignore	(date 1612487901168)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Datasource local storage ignored files
++/../../../../../:\wamp64\www\git101\.idea/dataSources/
++/dataSources.local.xml
++# Editor-based HTTP Client requests
++/httpRequests/
